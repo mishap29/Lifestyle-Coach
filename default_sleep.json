@@ -1,0 +1,34 @@
+{
+  "sleep_logs": [
+    {
+      "date": "2025-04-28",
+      "hours": 6.0,
+      "quality": 75,
+      "notes": ""
+    },
+    {
+      "date": "2025-04-28",
+      "hours": 6.5,
+      "quality": 40,
+      "notes": ""
+    },
+    {
+      "date": "2025-04-28",
+      "hours": 4.0,
+      "quality": 12,
+      "notes": ""
+    },
+    {
+      "date": "2025-04-28",
+      "hours": 8.0,
+      "quality": 80,
+      "notes": "water before bed, on phone before bed"
+    },
+    {
+      "date": "2025-04-28",
+      "hours": 8.0,
+      "quality": 80,
+      "notes": "water before bed, on phone before bed"
+    }
+  ]
+}
